@@ -1,0 +1,14 @@
+Dirigible Wiki Sample
+
+1.Basic UI
+	-Creating layout
+2.Text editing
+	-font size
+	-text style(italic, bold, underline, etc.)
+	-colour
+3.Search Engine
+  -database for the wiki's
+  -search algorithm
+4.Image insertion
+5.HTML support
+ -html tags
